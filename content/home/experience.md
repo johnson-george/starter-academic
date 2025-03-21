@@ -35,7 +35,6 @@ experience:
     company_logo: ox-brand
     location: Oxford, UK
     date_start: '2020-01-01'
-    date_end: '2021-01-01'
     description: Taught mathematics and theoretical physics to undergraduates from first year to fourth.
 
 design:
