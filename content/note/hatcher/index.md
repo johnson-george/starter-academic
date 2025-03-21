@@ -1,6 +1,6 @@
 ---
 title: Algebraic Topology Solutions
-summary: Handwritten solutions to problems from the zeroth chapter of Allen Hatcher's Algebraic Topology.
+summary: Solutions to problems from the zeroth chapter of Allen Hatcher's Algebraic Topology.
 tags:
 - Solutions
 date: "2021-05-13T00:00:00Z"
