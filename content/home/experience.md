@@ -28,7 +28,6 @@ experience:
     company_logo: jsps2
     location: Tsukuba, Japan
     date_start: '2022-01-01'
-    date_end: '2022-12-01'
     description: Researching quantum aspects of black holes at the High Energy Accelerator Research Organisation.
   - title: Lecturer in Applied Mathematics and Physics
     company: Oxford University
