@@ -109,4 +109,4 @@ Since the divergences of the baryon number current and lepton number current are
 
 [//]: <> (Note that $SU(2)_L$ here is gauged, as is the hypercharge subgroup of $SU(2)_R \times U(1)\_{B-L}$.)
 
-Is footnote appearing?
+Is footnote appearing? For real?
