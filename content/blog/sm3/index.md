@@ -82,7 +82,7 @@ where $B$ and $L$ are the generators of baryon number and lepton number respecti
 Without gauge couplings, the kinetic terms of the Higgs are invariant under the full $SU(2)\_L \times SU(2)\_R$ symmetry group, just as the potential is. When we gauge the $SU(2)\_L$ subgroup, the additional terms in the Lagrangian (coupling the Higgs to the gauge fields) are only invariant as a result of the global transformation properties of the gauge fields:
 $$ W_\mu \to U W_\mu U^{-1} \ .$$
 Thus, the problematic terms are those that involve the hypercharge gauge field $B_\mu$ (proportional to the matrix $T_R^3$), which does not transform under the action of the generators $T_R^1$ and $T_R^2$, nor commute with them:
-$$ \begin{align} \mathrm{tr}(B^\mu \Phi^\dagger \Phi  B_\mu) \to \ &\mathrm{tr}(B^\mu (1 - i\alpha_iT_R^i)  \Phi^\dagger \Phi (1 + i\alpha_j T_R^j) B_\mu) \\\\
+$$ \begin{align} \mathrm{tr}(B^\mu \Phi^\dagger \Phi  B_\mu) \to \ &\mathrm{tr}(B^\mu (1 - i\alpha_iT_R^i)  \Phi^\dagger \Phi (1 + i\alpha_j T_R^j) B_\mu) \\\
  \neq \ &\mathrm{tr}(B^\mu \Phi^\dagger \Phi  B_\mu) \ . \end{align}$$
 
 > *Exercise:* Show that the kinetic terms for the fermions also break $SU(2)_R$ explicitly when $g' \neq 0$.
@@ -108,5 +108,3 @@ Since the divergences of the baryon number current and lepton number current are
 | $U(1)_{B-L}$| No | No | No |
 
 [//]: <> (Note that $SU(2)_L$ here is gauged, as is the hypercharge subgroup of $SU(2)_R \times U(1)\_{B-L}$.)
-
-Is footnote appearing? For real?
