@@ -102,8 +102,6 @@ $$ \mathrm{tr}(\gamma^5 t^a \\{T^b, T^c\\}) $$
 
 is non-zero. In principle it is possible for anomalies to arise from diagrams with three different currents, but this cannot happen in the Standard Model since such diagrams always involve exactly one generator of $SU(2)_L$ or $SU(3)_C$, which is traceless. It is a somewhat magical feature of the Standard Model, which one should check from the table of field representations above, that no gauge symmetry $H$ suffers a $G$-anomaly for any gauge symmetry $G$. Indeed, this is necessary for the theory to be consistent. Nevertheless, there are several global symmetries $H$ which suffer $G$-anomalies, as we shall see.
 
-test
-
 ## Summary
 
 | | Approximate | SSB | Anomalous |
